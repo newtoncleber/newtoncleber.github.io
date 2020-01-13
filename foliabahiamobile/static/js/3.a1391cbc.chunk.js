@@ -1,0 +1,2 @@
+(this.webpackJsonpfoliabahiamobile=this.webpackJsonpfoliabahiamobile||[]).push([[3],{73:function(e,t,n){"use strict";n.r(t);var a=n(11),i=n(12),c=n(14),l=n(13),o=n(15),r=n(0),u=n.n(r),b=function(e){function t(){return Object(a.a)(this,t),Object(c.a)(this,Object(l.a)(t).apply(this,arguments))}return Object(o.a)(t,e),Object(i.a)(t,[{key:"render",value:function(){return u.a.createElement("div",null,u.a.createElement("h1",null,"Atendimento"))}}]),t}(u.a.Component);t.default=b}}]);
+//# sourceMappingURL=3.a1391cbc.chunk.js.map
