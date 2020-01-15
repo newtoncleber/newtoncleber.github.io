@@ -1,2 +1,0 @@
-(this.webpackJsonpfoliabahiamobile=this.webpackJsonpfoliabahiamobile||[]).push([[8],{72:function(e,t,a){"use strict";a.r(t);var n=a(11),i=a(12),c=a(14),l=a(13),o=a(15),r=a(0),u=a.n(r),b=function(e){function t(){return Object(n.a)(this,t),Object(c.a)(this,Object(l.a)(t).apply(this,arguments))}return Object(o.a)(t,e),Object(i.a)(t,[{key:"render",value:function(){return u.a.createElement("div",null,u.a.createElement("h1",null,"Hoteis"))}}]),t}(u.a.Component);t.default=b}}]);
-//# sourceMappingURL=8.33def987.chunk.js.map

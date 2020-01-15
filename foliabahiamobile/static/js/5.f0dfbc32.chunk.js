@@ -1,2 +1,0 @@
-(this.webpackJsonpfoliabahiamobile=this.webpackJsonpfoliabahiamobile||[]).push([[5],{69:function(e,t,a){"use strict";a.r(t);var n=a(11),i=a(12),c=a(14),r=a(13),l=a(15),o=a(0),u=a.n(o),b=function(e){function t(){return Object(n.a)(this,t),Object(c.a)(this,Object(r.a)(t).apply(this,arguments))}return Object(l.a)(t,e),Object(i.a)(t,[{key:"render",value:function(){return u.a.createElement("div",null,u.a.createElement("h1",null,"Camarotes"))}}]),t}(u.a.Component);t.default=b}}]);
-//# sourceMappingURL=5.f0dfbc32.chunk.js.map
