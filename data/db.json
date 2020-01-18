@@ -1,0 +1,108 @@
+{
+  "produtos": [
+    {
+      "camarotes": [
+        {
+          "id": 1,
+          "nome": "Camarote Skol",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/09/Skol.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 2,
+          "nome": "Camarote Club",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/08/Club.jpg",
+          "censura": 18,
+          "preco": 5000,
+          "modalidade": "all inclusive"
+        },
+        {
+          "id": 3,
+          "nome": "Carnavalito",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/08/carnavalito.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 4,
+          "nome": "Nana",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/08/Nana.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 5,
+          "nome": "Villamix",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/02/Vilamix-1.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 6,
+          "nome": "Salvador",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2018/09/Salvador.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        }
+      ]
+    },
+    {
+      "blocos": [
+        {
+          "id": 1,
+          "nome": "Camarote Skol",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/09/Skol.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 2,
+          "nome": "Camarote Club",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/08/Club.jpg",
+          "censura": 18,
+          "preco": 5000,
+          "modalidade": "all inclusive"
+        },
+        {
+          "id": 3,
+          "nome": "Carnavalito",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/08/carnavalito.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 4,
+          "nome": "Nana",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/08/Nana.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 5,
+          "nome": "Villamix",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2019/02/Vilamix-1.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        },
+        {
+          "id": 6,
+          "nome": "Salvador",
+          "foto": "https://foliaproducoes.com.br/wp-content/uploads/2018/09/Salvador.jpg",
+          "censura": 18,
+          "preco": 500,
+          "modalidade": "open bar"
+        }
+      ]
+    }
+  ]
+}
